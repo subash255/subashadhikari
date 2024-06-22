@@ -3,7 +3,7 @@
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subash255&label=Profile%20views&color=0e75b6&style=flat" alt="subash255" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subash255" alt="subash255" /></a> </p>
+
 
 - 🔭 I’m currently working on [RoomKhoj](https://github.com/subash255/roomkhoj)
 
